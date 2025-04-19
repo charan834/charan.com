@@ -1,0 +1,54 @@
+.header{
+    border: 2px solid black;
+    border-radius: 20px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    text-align:center;
+    background-image: url(./scientific-molecule-background-with-flow-waves-medicine-science-technology-chemistry-wallpaper-o_230610-906.avif);
+    
+    justify-content: space-between;
+    box-shadow: 2px 2px 2px;
+}
+
+
+.about{
+    border: 2px solid black;
+    border-radius: 20px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(./scientific-molecule-background-with-flow-waves-medicine-science-technology-chemistry-wallpaper-o_230610-906.avif);
+    justify-content: space-between;
+    padding: 2px;
+}
+.education{
+    border: 2px solid black;
+    border-radius: 20px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(./scientific-molecule-background-with-flow-waves-medicine-science-technology-chemistry-wallpaper-o_230610-906.avif);
+    justify-content: space-between;
+}
+.tech{
+    border: 2px solid black;
+    border-radius: 20px;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(./scientific-molecule-background-with-flow-waves-medicine-science-technology-chemistry-wallpaper-o_230610-906.avif);
+  justify-content: space-between;
+
+}
+.projects{
+    border: 2px solid black;
+    border-radius: 20px;
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    background-image: url(./scientific-molecule-background-with-flow-waves-medicine-science-technology-chemistry-wallpaper-o_230610-906.avif);
+    justify-content: space-between;
+    
+
+}
